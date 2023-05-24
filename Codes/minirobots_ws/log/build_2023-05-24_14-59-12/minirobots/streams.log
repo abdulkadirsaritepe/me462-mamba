@@ -1,0 +1,27 @@
+[0.755s] Invoking command in '/home/abdulkadir/Dev/local/minirobots_ws/src/minirobots': PYTHONPATH=/home/abdulkadir/Dev/local/minirobots_ws/build/minirobots/prefix_override:/home/abdulkadir/Dev/local/minirobots_ws/install/minirobots/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/minirobots build --build-base /home/abdulkadir/Dev/local/minirobots_ws/build/minirobots/build install --record /home/abdulkadir/Dev/local/minirobots_ws/build/minirobots/install.log --install-scripts $base/lib/minirobots --single-version-externally-managed
+[0.996s] running egg_info
+[0.996s] writing ../../build/minirobots/minirobots.egg-info/PKG-INFO
+[0.996s] writing dependency_links to ../../build/minirobots/minirobots.egg-info/dependency_links.txt
+[0.997s] writing entry points to ../../build/minirobots/minirobots.egg-info/entry_points.txt
+[0.997s] writing requirements to ../../build/minirobots/minirobots.egg-info/requires.txt
+[0.997s] writing top-level names to ../../build/minirobots/minirobots.egg-info/top_level.txt
+[1.024s] reading manifest file '../../build/minirobots/minirobots.egg-info/SOURCES.txt'
+[1.025s] writing manifest file '../../build/minirobots/minirobots.egg-info/SOURCES.txt'
+[1.025s] running build
+[1.025s] running build_py
+[1.025s] copying minirobots/obstacle_avoider.py -> /home/abdulkadir/Dev/local/minirobots_ws/build/minirobots/build/lib/minirobots
+[1.025s] running install
+[1.026s] running install_lib
+[1.026s] copying /home/abdulkadir/Dev/local/minirobots_ws/build/minirobots/build/lib/minirobots/obstacle_avoider.py -> /home/abdulkadir/Dev/local/minirobots_ws/install/minirobots/lib/python3.8/site-packages/minirobots
+[1.027s] byte-compiling /home/abdulkadir/Dev/local/minirobots_ws/install/minirobots/lib/python3.8/site-packages/minirobots/obstacle_avoider.py to obstacle_avoider.cpython-38.pyc
+[1.029s] running install_data
+[1.030s] copying launch/robot_launch.py -> /home/abdulkadir/Dev/local/minirobots_ws/install/minirobots/share/minirobots/launch
+[1.030s] copying resource/hamster.urdf -> /home/abdulkadir/Dev/local/minirobots_ws/install/minirobots/share/minirobots/resource
+[1.030s] running install_egg_info
+[1.031s] removing '/home/abdulkadir/Dev/local/minirobots_ws/install/minirobots/lib/python3.8/site-packages/minirobots-0.0.0-py3.8.egg-info' (and everything under it)
+[1.031s] Copying ../../build/minirobots/minirobots.egg-info to /home/abdulkadir/Dev/local/minirobots_ws/install/minirobots/lib/python3.8/site-packages/minirobots-0.0.0-py3.8.egg-info
+[1.032s] running install_scripts
+[1.046s] Installing my_robot_driver script to /home/abdulkadir/Dev/local/minirobots_ws/install/minirobots/lib/minirobots
+[1.046s] Installing obstacle_avoider script to /home/abdulkadir/Dev/local/minirobots_ws/install/minirobots/lib/minirobots
+[1.046s] writing list of installed files to '/home/abdulkadir/Dev/local/minirobots_ws/build/minirobots/install.log'
+[1.075s] Invoked command in '/home/abdulkadir/Dev/local/minirobots_ws/src/minirobots' returned '0': PYTHONPATH=/home/abdulkadir/Dev/local/minirobots_ws/build/minirobots/prefix_override:/home/abdulkadir/Dev/local/minirobots_ws/install/minirobots/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/minirobots build --build-base /home/abdulkadir/Dev/local/minirobots_ws/build/minirobots/build install --record /home/abdulkadir/Dev/local/minirobots_ws/build/minirobots/install.log --install-scripts $base/lib/minirobots --single-version-externally-managed

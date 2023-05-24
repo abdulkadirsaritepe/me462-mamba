@@ -1,0 +1,19 @@
+running egg_info
+writing ../../build/minirobots/minirobots.egg-info/PKG-INFO
+writing dependency_links to ../../build/minirobots/minirobots.egg-info/dependency_links.txt
+writing entry points to ../../build/minirobots/minirobots.egg-info/entry_points.txt
+writing requirements to ../../build/minirobots/minirobots.egg-info/requires.txt
+writing top-level names to ../../build/minirobots/minirobots.egg-info/top_level.txt
+reading manifest file '../../build/minirobots/minirobots.egg-info/SOURCES.txt'
+writing manifest file '../../build/minirobots/minirobots.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+running install_egg_info
+removing '/home/abdulkadir/Dev/local/minirobots_ws/install/minirobots/lib/python3.8/site-packages/minirobots-0.0.0-py3.8.egg-info' (and everything under it)
+Copying ../../build/minirobots/minirobots.egg-info to /home/abdulkadir/Dev/local/minirobots_ws/install/minirobots/lib/python3.8/site-packages/minirobots-0.0.0-py3.8.egg-info
+running install_scripts
+Installing my_robot_driver script to /home/abdulkadir/Dev/local/minirobots_ws/install/minirobots/lib/minirobots
+writing list of installed files to '/home/abdulkadir/Dev/local/minirobots_ws/build/minirobots/install.log'

@@ -1,0 +1,11 @@
+[0.728s] Invoking command in '/home/abdulkadir/Dev/local/minirobots_ws/src/minirobots': PYTHONPATH=/home/abdulkadir/Dev/local/minirobots_ws/build/minirobots/prefix_override:/home/abdulkadir/Dev/local/minirobots_ws/install/minirobots/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/minirobots build --build-base /home/abdulkadir/Dev/local/minirobots_ws/build/minirobots/build install --record /home/abdulkadir/Dev/local/minirobots_ws/build/minirobots/install.log --install-scripts $base/lib/minirobots --single-version-externally-managed
+[0.969s] running egg_info
+[0.969s] creating ../../build/minirobots/my_package.egg-info
+[0.969s] writing ../../build/minirobots/my_package.egg-info/PKG-INFO
+[0.970s] writing dependency_links to ../../build/minirobots/my_package.egg-info/dependency_links.txt
+[0.970s] writing entry points to ../../build/minirobots/my_package.egg-info/entry_points.txt
+[0.970s] writing requirements to ../../build/minirobots/my_package.egg-info/requires.txt
+[0.970s] writing top-level names to ../../build/minirobots/my_package.egg-info/top_level.txt
+[0.971s] writing manifest file '../../build/minirobots/my_package.egg-info/SOURCES.txt'
+[0.998s] error: package directory 'my_package' does not exist
+[1.011s] Invoked command in '/home/abdulkadir/Dev/local/minirobots_ws/src/minirobots' returned '1': PYTHONPATH=/home/abdulkadir/Dev/local/minirobots_ws/build/minirobots/prefix_override:/home/abdulkadir/Dev/local/minirobots_ws/install/minirobots/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/minirobots build --build-base /home/abdulkadir/Dev/local/minirobots_ws/build/minirobots/build install --record /home/abdulkadir/Dev/local/minirobots_ws/build/minirobots/install.log --install-scripts $base/lib/minirobots --single-version-externally-managed

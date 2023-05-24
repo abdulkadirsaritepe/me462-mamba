@@ -1,0 +1,6 @@
+source;share/minirobots/hook/pythonpath.ps1
+source;share/minirobots/hook/pythonpath.dsv
+source;share/minirobots/hook/pythonpath.sh
+source;share/minirobots/hook/ament_prefix_path.ps1
+source;share/minirobots/hook/ament_prefix_path.dsv
+source;share/minirobots/hook/ament_prefix_path.sh

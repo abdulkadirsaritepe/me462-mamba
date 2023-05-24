@@ -1,0 +1,38 @@
+[0.705s] Invoking command in '/home/abdulkadir/Dev/local/minirobots_ws/src/minirobots': PYTHONPATH=/home/abdulkadir/Dev/local/minirobots_ws/build/minirobots/prefix_override:/home/abdulkadir/Dev/local/minirobots_ws/install/minirobots/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/minirobots build --build-base /home/abdulkadir/Dev/local/minirobots_ws/build/minirobots/build install --record /home/abdulkadir/Dev/local/minirobots_ws/build/minirobots/install.log --install-scripts $base/lib/minirobots --single-version-externally-managed
+[0.939s] running egg_info
+[0.940s] creating ../../build/minirobots/minirobots.egg-info
+[0.940s] writing ../../build/minirobots/minirobots.egg-info/PKG-INFO
+[0.940s] writing dependency_links to ../../build/minirobots/minirobots.egg-info/dependency_links.txt
+[0.940s] writing entry points to ../../build/minirobots/minirobots.egg-info/entry_points.txt
+[0.941s] writing requirements to ../../build/minirobots/minirobots.egg-info/requires.txt
+[0.941s] writing top-level names to ../../build/minirobots/minirobots.egg-info/top_level.txt
+[0.942s] writing manifest file '../../build/minirobots/minirobots.egg-info/SOURCES.txt'
+[0.968s] reading manifest file '../../build/minirobots/minirobots.egg-info/SOURCES.txt'
+[0.969s] writing manifest file '../../build/minirobots/minirobots.egg-info/SOURCES.txt'
+[0.969s] running build
+[0.969s] running build_py
+[0.969s] creating /home/abdulkadir/Dev/local/minirobots_ws/build/minirobots/build
+[0.969s] creating /home/abdulkadir/Dev/local/minirobots_ws/build/minirobots/build/lib
+[0.969s] creating /home/abdulkadir/Dev/local/minirobots_ws/build/minirobots/build/lib/minirobots
+[0.969s] copying minirobots/__init__.py -> /home/abdulkadir/Dev/local/minirobots_ws/build/minirobots/build/lib/minirobots
+[0.969s] copying minirobots/my_robot_driver.py -> /home/abdulkadir/Dev/local/minirobots_ws/build/minirobots/build/lib/minirobots
+[0.970s] running install
+[0.970s] running install_lib
+[0.971s] creating /home/abdulkadir/Dev/local/minirobots_ws/install/minirobots/lib/python3.8/site-packages/minirobots
+[0.971s] copying /home/abdulkadir/Dev/local/minirobots_ws/build/minirobots/build/lib/minirobots/__init__.py -> /home/abdulkadir/Dev/local/minirobots_ws/install/minirobots/lib/python3.8/site-packages/minirobots
+[0.971s] copying /home/abdulkadir/Dev/local/minirobots_ws/build/minirobots/build/lib/minirobots/my_robot_driver.py -> /home/abdulkadir/Dev/local/minirobots_ws/install/minirobots/lib/python3.8/site-packages/minirobots
+[0.971s] byte-compiling /home/abdulkadir/Dev/local/minirobots_ws/install/minirobots/lib/python3.8/site-packages/minirobots/__init__.py to __init__.cpython-38.pyc
+[0.973s] byte-compiling /home/abdulkadir/Dev/local/minirobots_ws/install/minirobots/lib/python3.8/site-packages/minirobots/my_robot_driver.py to my_robot_driver.cpython-38.pyc
+[0.973s] running install_data
+[0.973s] creating /home/abdulkadir/Dev/local/minirobots_ws/install/minirobots/share/minirobots/launch
+[0.974s] copying launch/robot_launch.py -> /home/abdulkadir/Dev/local/minirobots_ws/install/minirobots/share/minirobots/launch
+[0.974s] creating /home/abdulkadir/Dev/local/minirobots_ws/install/minirobots/share/minirobots/worlds
+[0.974s] copying worlds/minirobotlarintatlidunyasi.wbt -> /home/abdulkadir/Dev/local/minirobots_ws/install/minirobots/share/minirobots/worlds
+[0.974s] creating /home/abdulkadir/Dev/local/minirobots_ws/install/minirobots/share/minirobots/resource
+[0.974s] copying resource/hamster.urdf -> /home/abdulkadir/Dev/local/minirobots_ws/install/minirobots/share/minirobots/resource
+[0.974s] running install_egg_info
+[0.975s] Copying ../../build/minirobots/minirobots.egg-info to /home/abdulkadir/Dev/local/minirobots_ws/install/minirobots/lib/python3.8/site-packages/minirobots-0.0.0-py3.8.egg-info
+[0.976s] running install_scripts
+[0.989s] Installing my_robot_driver script to /home/abdulkadir/Dev/local/minirobots_ws/install/minirobots/lib/minirobots
+[0.989s] writing list of installed files to '/home/abdulkadir/Dev/local/minirobots_ws/build/minirobots/install.log'
+[1.006s] Invoked command in '/home/abdulkadir/Dev/local/minirobots_ws/src/minirobots' returned '0': PYTHONPATH=/home/abdulkadir/Dev/local/minirobots_ws/build/minirobots/prefix_override:/home/abdulkadir/Dev/local/minirobots_ws/install/minirobots/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/minirobots build --build-base /home/abdulkadir/Dev/local/minirobots_ws/build/minirobots/build install --record /home/abdulkadir/Dev/local/minirobots_ws/build/minirobots/install.log --install-scripts $base/lib/minirobots --single-version-externally-managed

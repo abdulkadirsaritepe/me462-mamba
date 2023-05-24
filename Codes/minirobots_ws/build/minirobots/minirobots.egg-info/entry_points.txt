@@ -1,0 +1,4 @@
+[console_scripts]
+my_robot_driver = minirobots.my_robot_driver:main
+obstacle_avoider = minirobots.obstacle_avoider:main
+
