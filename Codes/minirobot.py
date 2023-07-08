@@ -145,8 +145,8 @@ def serve(sock):
 
 
 if __name__ == "__main__":
-    ssid = 'Abdulkadir'  # 'mechalab_intra'
-    password = 'ujbj3761'  # 'mechastudent'
+    ssid = 'mechalab_intra'
+    password = 'mechastudent'
 
     # Define I2C pins
     i2c = machine.I2C(0, scl=machine.Pin(5), sda=machine.Pin(4))
